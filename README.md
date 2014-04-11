@@ -2,7 +2,9 @@
 
 1. clone
 
-    git clone git@github.com:microwise-system/forkknife.git
+```
+git clone git@github.com:microwise-system/forkknife.git
+```
 
 2. touch gaohui.rb
 
@@ -10,12 +12,16 @@
 
 4. commit
 
-    git add gaohui.rb
-    git commit -m "add gaohui"
+```
+git add gaohui.rb
+git commit -m "add gaohui"
+```
 
 5. push
 
-    git push origin master
+```
+git push origin master
+```
 
 6. well done
 
