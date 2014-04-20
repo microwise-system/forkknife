@@ -26,6 +26,7 @@
 1. clone
 
         git clone git@github.com:microwise-system/forkknife.git
+        cd forkknife
 
 2. touch gaohui.rb
 
