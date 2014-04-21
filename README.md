@@ -27,6 +27,9 @@
 
         git clone git@github.com:microwise-system/forkknife.git
         cd forkknife
+        # 配置用户名和邮箱
+        git config --global user.name "Your Name Here"
+        git config --global user.email "your_email@example.com"
 
 2. touch gaohui.rb
 
@@ -44,4 +47,7 @@ git push origin master
     ```
 
 6. well done
+
+## 磨刀霍霍
+安装 git 并配置，[参考文档](https://help.github.com/articles/set-up-git)
 
